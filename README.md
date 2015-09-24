@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/mirum-front-end/something.png)](https://travis-ci.org/mirum-front-end/something)
 # Something
 
 This README outlines the details of collaborating on this Ember application.
